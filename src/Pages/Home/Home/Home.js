@@ -3,7 +3,7 @@ import Services from '../Services/Services';
 
 const Home = () => {
     return (
-        <div>
+        <div className='container'>
             <Services></Services>
         </div>
     );

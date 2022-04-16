@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Arithmetic",
+        "price": "100",
+        "description": "kuhdudhfdfhbdjhbfdjb",
+        "img":"https://i.ibb.co/6b3S0d5/Geometry.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Algebra",
+        "price": "150",
+        "description": "kuhdudhfdfhbdjhbfdjb",
+        "img":"https://i.ibb.co/JsXX1GJ/Algebra.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Sets",
+        "price": "200",
+        "description": "kuhdudhfdfhbdjhbfdjb",
+        "img":"https://i.ibb.co/Pr7DnXZ/arithmetic.jpg"
+    }
+
+]
