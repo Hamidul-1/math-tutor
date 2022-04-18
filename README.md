@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# App Name - Math Tutor
+# Live site link-
+* This is a Math Tutor react app
+* It is a individual side who provides services
+* Its special feature is Email-password based authentication. where I use react firebase hook.
+* Also, implement Google login
+* Its a user-friendly and responsive website
 
 ## Available Scripts
 
