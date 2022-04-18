@@ -9,6 +9,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const Login = () => {
+    // Login Page
     const emailRef = useRef('');
     const passwordRef = useRef('');
     const navigate = useNavigate();

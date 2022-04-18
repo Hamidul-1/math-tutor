@@ -15,7 +15,6 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <h2 className='text-center'>Math Tutor</h2>
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>
         <Route path="/home" element={<Home></Home>}></Route>

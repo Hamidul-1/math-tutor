@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "name": "Arithmetic",
+        "name": "Geometry",
         "price": "100",
-        "description": "kuhdudhfdfhbdjhbfdjb",
+        "description": "Geometry is a branch of mathematics that studies the sizes, shapes, positions angles and dimensions of things. Flat shapes like squares, circles, and triangles are a part of flat geometry and are called 2D shapes. These shapes have only 2 dimensions, the length and the width.",
         "img":"https://i.ibb.co/6b3S0d5/Geometry.png"
     },
 
@@ -11,15 +11,15 @@
         "id": 2,
         "name": "Algebra",
         "price": "150",
-        "description": "kuhdudhfdfhbdjhbfdjb",
+        "description": "Algebra is the branch of mathematics that helps in the representation of problems or situations in the form of mathematical expressions. It involves variables like x, y, z, and mathematical operations like addition, subtraction, multiplication, and division to form a meaningful mathematical expression.",
         "img":"https://i.ibb.co/JsXX1GJ/Algebra.png"
     },
 
     {
         "id": 3,
-        "name": "Sets",
+        "name": "Arithmetic",
         "price": "200",
-        "description": "kuhdudhfdfhbdjhbfdjb",
+        "description": "Arithmetic is the branch of mathematics that deals with the study of numbers using various operations on them. Basic operations of math are addition, subtraction, multiplication and division. These operations are denoted by the given symbols.",
         "img":"https://i.ibb.co/Pr7DnXZ/arithmetic.jpg"
     }
 

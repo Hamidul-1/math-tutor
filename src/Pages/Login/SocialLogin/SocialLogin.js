@@ -6,6 +6,7 @@ import google from '../../../images/Google-Icon.png'
 import Loading from '../../Shared/Loading/Loading';
 
 const SocialLogin = () => {
+    // Social Login Part
     const [signInWithGoogle, user, loading, error] = useSignInWithGoogle(auth);
     const navigate = useNavigate();
     let errorElement;

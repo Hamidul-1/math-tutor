@@ -2,6 +2,7 @@ import React from 'react';
 import error from '../../../images/error-page.jpg';
 
 const NotFound = () => {
+    // NotFound Section
     return (
         <div>
             <h2 className='text-center'>The page is not found</h2>

@@ -9,6 +9,7 @@ import Loading from '../../Shared/Loading/Loading';
 
 
 const Register = () => {
+    // Register Page
     const [agree, setAgree] = useState(false);
     const [
         createUserWithEmailAndPassword,

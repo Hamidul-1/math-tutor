@@ -5,6 +5,7 @@ import banner2 from '../../../images/banner/banner-2.jpg'
 import banner3 from '../../../images/banner/banner-3.jpg'
 
 const Banner = () => {
+    // Banner
     const [index, setIndex] = useState(0);
 
     const handleSelect = (selectedIndex, e) => {
