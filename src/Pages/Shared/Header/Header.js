@@ -7,6 +7,7 @@ import auth from '../../../firebase.init';
 import logo from '../../../images/math.png';
 
 const Header = () => {
+    // Header section
     const [user] = useAuthState(auth);
 
     
